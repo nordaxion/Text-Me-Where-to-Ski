@@ -14,7 +14,7 @@ client = Client(account_sid, auth_token)
 filename = input("Enter the name of the file that contains the ski resorts: ")
 number = input("What is your phone number? (Numbers only)\n")
 
-# Read the list of resorts and create a new file called out.csv to 
+# Read the list of resorts and create a new file called out.csv that holds the results for the snowfall
 with open(filename, 'r', encoding='utf-8') as f:
 
     with open('out.csv', 'w', encoding='utf-8') as out:
@@ -50,6 +50,7 @@ with open(filename, 'r', encoding='utf-8') as f:
 place = ''
 highest_snowfall = 0
 
+# Search the resorts for the largest amount of snowfall
 with open('out.csv', 'r', encoding='utf-8') as file:
     outfile = reader(file)
     file.readline()
@@ -62,6 +63,7 @@ with open('out.csv', 'r', encoding='utf-8') as file:
     else:
         print(f"{place} has the most potential snow with {highest_snowfall} inches.")
 
+# Text the number that was given in the beginning to alert the user of the resort with the highest snowfall
 message = client.messages.create(
     to=number,
     from_="+14806464017",
