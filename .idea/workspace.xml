@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65782002-3f40-4ec0-baa0-968ae231407b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VgITtNmuHAlNLJLlfDZjqdg9s8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.firstProject">
+    <configuration name="firstProject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text Me Where to Ski" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstProject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="troll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text Me Where to Ski" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/troll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.troll" />
+        <item itemvalue="Python.firstProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65782002-3f40-4ec0-baa0-968ae231407b" name="Default Changelist" comment="" />
+      <created>1577668321067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577668321067</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Inspections" timestamp="1578381893210">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Inspections/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1578381893210" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577669245979">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1577669245979" />
+    <state width="1659" height="281" key="GridCell.Tab.0.bottom" timestamp="1578450919806">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1578450919806" />
+    <state width="1659" height="281" key="GridCell.Tab.0.center" timestamp="1578450919805">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="281" key="GridCell.Tab.0.center/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1578450919805" />
+    <state width="1659" height="281" key="GridCell.Tab.0.left" timestamp="1578450919804">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="281" key="GridCell.Tab.0.left/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1578450919804" />
+    <state width="1659" height="281" key="GridCell.Tab.0.right" timestamp="1578450919805">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="281" key="GridCell.Tab.0.right/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1578450919805" />
+    <state width="1659" height="354" key="GridCell.Tab.1.bottom" timestamp="1577675361996">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="354" key="GridCell.Tab.1.bottom/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1577675361996" />
+    <state width="1659" height="354" key="GridCell.Tab.1.center" timestamp="1577675361995">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="354" key="GridCell.Tab.1.center/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1577675361995" />
+    <state width="1659" height="354" key="GridCell.Tab.1.left" timestamp="1577675361995">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="354" key="GridCell.Tab.1.left/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1577675361995" />
+    <state width="1659" height="354" key="GridCell.Tab.1.right" timestamp="1577675361996">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="354" key="GridCell.Tab.1.right/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1577675361996" />
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1580170559736">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1578442992167" />
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580170559736" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1578381612241">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1578381612241" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1578384100535">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050/-115.-1080.1920.1080@0.0.1680.1050" timestamp="1578384100535" />
+  </component>
+</project>
